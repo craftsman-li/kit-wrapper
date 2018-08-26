@@ -1,4 +1,4 @@
-module kit-wrapper
+module github.com/craftsman-li/kit-wrapper
 
 require (
 	github.com/stretchr/objx v0.1.1 // indirect
